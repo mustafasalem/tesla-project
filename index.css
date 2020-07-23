@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  background-color: #99ccff;
+}
+
+.models {
+  margin-left: 400px;
+  display: flex;
+}
+
+.covor-img {
+  width: 100%;
+  height: 500px;
+  background-image: url("covor.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.buttons {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.buttons button {
+  background-color: #3333ff;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+.buttons button:hover {
+  opacity: 0.5;
+}
+
+.about {
+  width: 100%;
+
+  height: 935px;
+  /*
+background-image: url("aboutcovor.jpg");
+
+background-size: cover;
+*/
+}
+
+.safety {
+  width: 100%;
+
+  height: 940px;
+}
+.safety p {
+  text-align: left;
+}
+
+.go-anywhere {
+  width: 100%;
+
+  height: 900px;
+}
+.go-anywhere p {
+  text-align: left;
+}
+
+.modelS {
+  width: 100%;
+  height: 650px;
+  background-color: darkgrey;
+}
+
+.model3 {
+  background-color: #ff3333;
+  padding-bottom: 100px;
+}
+
+.modelx {
+  background-color: white;
+  padding-bottom: 100px;
+}
+
+.modely {
+  background-color: #003399;
+  padding-bottom: 100px;
+}
+
+.jumbotron-fluid {
+  margin-top: 140px;
+  background-color: #99ccff;
+}
+
+button {
+  background-color: #3333ff;
+  border-radius: 15px;
+  margin: 10px;
+}
+button:hover {
+  opacity: 0.5;
+}
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1,
+h3 {
+  font-family: "Courier New", Courier, monospace;
+}
